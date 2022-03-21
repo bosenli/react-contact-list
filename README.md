@@ -16,7 +16,7 @@ Have Fun!!!
 
 ** Link for display example: https://docs.google.com/document/d/1VMDFi_i6stn5n28CKW8qkq441Ag7b_sNmQYvPcayqs0/edit  (Links to an external site.)
 
-** Link for gist: https://gist.github.com/Jonathanh7/46ed5ff42b7ddf9fb04df752bdb1be46
+** Link for gist: https://gist.github.com/bosenli/36d5bc259d4203b064f3692c875082fe
 
 
 # Getting Started with Create React App
